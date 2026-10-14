@@ -1,0 +1,8 @@
+{
+  "name": "Home UI",
+  "description": "Launcher Android leve, fluido e personalizável com suporte a papéis de parede animados, pacotes de ícones e bloqueio biométrico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
