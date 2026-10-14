@@ -1,0 +1,8 @@
+{
+  "name": "GitBuilder CI",
+  "description": "Compilador remoto de aplicativos Android com integração ao GitHub Actions, download e instalação direta de APKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

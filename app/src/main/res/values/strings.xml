@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitBuilder CI</string>
+    <string name="nav_build">Compilar</string>
+    <string name="nav_history">Compilações</string>
+    <string name="nav_settings">Configuração</string>
+    <string name="btn_select_zip">Selecionar Projeto ZIP</string>
+    <string name="btn_start_build">Enviar e Compilar APK</string>
+    <string name="label_github_token">Token de Acesso Pessoal (PAT)</string>
+    <string name="label_repo">Repositório de Compilação</string>
+</resources>
